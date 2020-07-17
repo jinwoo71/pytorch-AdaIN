@@ -1,4 +1,4 @@
-*.pth
+decoder_iter_*
 *.t7
 output/*
 .idea
